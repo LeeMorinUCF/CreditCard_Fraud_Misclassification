@@ -23,7 +23,7 @@ called
 [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/). 
 
 The relevant datasets are available on Google Drive here:
-[kaggle_credit_fraud_detection](https://drive.google.com/drive/folders/1-4xR3QnHKedXdOPMOsC0qHV3N6NuoiVA)
+[kaggle_credit_fraud_detection](https://drive.google.com/drive/folders/1-4xR3QnHKedXdOPMOsC0qHV3N6NuoiVA).
 
 
 ## Repository
