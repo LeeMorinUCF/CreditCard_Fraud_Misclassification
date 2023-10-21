@@ -26,3 +26,10 @@ The relevant datasets are available on Google Drive here:
 [kaggle_credit_fraud_detection](https://drive.google.com/drive/folders/1-4xR3QnHKedXdOPMOsC0qHV3N6NuoiVA)
 
 
+## Repository
+
+The OMLDS group maintains a repository for
+the 2023 edition of their OMLDS End-to-End Machine Learning Challenge Project
+in this repository:
+[OMLDS_ML_Project_2023](https://github.com/OMLDS/OMLDS_ML_Project_2023).
+
